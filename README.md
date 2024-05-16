@@ -19,15 +19,15 @@ In this project, an internal security audit is conducted to check for threats ri
 
 <p align="center">
 Controls checklist: <br/>
-<img src="audit 1.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="audit 1.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Compliance checklist:  <br/>
-<img src="audit 2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="audit 2.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
 SOC checklist and recommendations: <br/>
-<img src="audit 3.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="audit 3.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
