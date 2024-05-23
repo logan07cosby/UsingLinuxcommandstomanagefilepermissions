@@ -8,14 +8,16 @@ In this project, an internal security audit is conducted to check for threats ri
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Google docs</b> 
+- <b>Coursera</b>
+- <b>Qwiklabs</b>
+- <b>Linux</b>
 
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> 
 
-<h2>Audit walk-through:</h2>
+<h2>Command line walk-through:</h2>
 
 <p align="center">
 Controls checklist: <br/>
