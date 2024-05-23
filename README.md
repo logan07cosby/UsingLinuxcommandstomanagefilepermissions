@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, an internal security audit is conducted to check for threats risks, and vulnerabilities.
+In this project, the Linux command line is used to make changes in permissions on text files, hidden text files, and directories.
 <br />
 
 
