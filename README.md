@@ -20,19 +20,19 @@ In this project, an internal security audit is conducted to check for threats ri
 <h2>Command line walk-through:</h2>
 
 <p align="center">
-Controls checklist: <br/>
+Change directory, and list contents: <br/>
 <img src="linux 1.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Compliance checklist:  <br/>
+Change permissions on text file:  <br/>
 <img src="linux 2.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
-SOC checklist and recommendations: <br/>
+Change permissions on hidden text file: <br/>
 <img src="linux 3.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
-SOC checklist and recommendations: <br/>
+Change permissions on directory: <br/>
 <img src="linux 4.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
